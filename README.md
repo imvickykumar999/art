@@ -17,9 +17,9 @@
 	
 ----------
 
-# [`To Do`](https://github.com/imvickykumar999/YouTube-and-Instagram-as-INFINITE-file-storage/blob/40c2712453615ae88a0caf330b7c3aa4f4233d01/step3.py#L64) : `Play on pixel like in Minarycraft`
+# `Playing on pixel like in` [`Minarycraft`](https://github.com/imvickykumar999/art/blob/109038d940b58a8ee432ea3c951b9c27fa3c3ab1/minecraft.py#L59)
 
-![image](https://github.com/imvickykumar999/art/assets/50515418/51994ce2-135a-4b1a-80f8-61cae7a31d9a)
+![image](https://github.com/imvickykumar999/art/assets/50515418/ffec1593-7817-4748-97d1-dc3eb2fc3cef)
 
 ---------------
 
